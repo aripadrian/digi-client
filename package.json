@@ -4,5 +4,11 @@
   "description": "a Simple API to manage digiflazz account",
   "main": "index.js",
   "author": "aripadrian <aripadrian01@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
