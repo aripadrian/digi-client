@@ -1,0 +1,8 @@
+{
+  "name": "digi-client",
+  "version": "0.0.1",
+  "description": "a Simple API to manage digiflazz account",
+  "main": "index.js",
+  "author": "aripadrian <aripadrian01@gmail.com>",
+  "license": "MIT"
+}
